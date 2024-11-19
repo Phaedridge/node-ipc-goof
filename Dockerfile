@@ -1,4 +1,4 @@
-FROM node:20.3.0-slim
+FROM node:20.18.0-slim
 
 ENV RUNNING_IN_DOCKER true
 
